@@ -1,4 +1,4 @@
-## Hi there 👋
+## Mario Joia, just trying to learn some new skills. If you have questions, just ask.
 
 <!--
 **Mariojoia/Mariojoia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
